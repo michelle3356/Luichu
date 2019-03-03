@@ -1,0 +1,80 @@
+h1 {
+  font-family: "Edwardian Script ITC";
+  font-size: 80px;
+  color: rgb(106, 112, 170);
+}
+
+span {
+  display: inline-block;
+}
+
+li {
+  font-family: "Arial";
+  padding: 10 50px;
+  font-size: 20px;
+  border: 2px;
+  display: inline-block;
+}
+
+.logo {
+  width: 200px;
+  display: inline-block;
+}
+
+.menu {
+  display: inline-block;
+}
+
+.menu-link {
+  color: #000;
+}
+
+.menu-link:hover {
+  background-color: #ccc;
+}
+
+.menu-link:before {
+  content: attr(data-en);
+}
+
+.menu-link:hover:before{
+  content: attr(data-zh);
+}
+
+.header {
+  background-color: pink;
+}
+
+data-zh{
+  font-family: SimSun;
+}
+
+.magnifier{
+  height: 20px;
+  width: 20px;
+  margin-left: 150px;
+}
+
+.login{
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+}
+
+.car{
+  height: 25px;
+  width: 25px;
+  margin-left: 5px;
+}
+
+.d-block{
+  height: 500px;
+  width: 100px;
+}
+
+h3{
+  font-family: Microsoft JhengHei;
+  font-weight: bold;
+  color: red;
+  text-shadow: 5px 5px 3px black;
+}
