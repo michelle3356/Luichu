@@ -78,3 +78,25 @@ h3{
   color: red;
   text-shadow: 5px 5px 3px black;
 }
+
+.middle{
+  position: absolute;
+  z-index: 1;
+}
+
+.middle_bg1{
+  position: relative;
+  z-index: 2;
+}
+
+.middle_bg2{
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+.middle_bg3{
+  position: relative;
+  z-index: 2;
+  text-align: right;
+}
