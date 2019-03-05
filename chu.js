@@ -1,3 +1,5 @@
+var scroll = new SmoothScroll('a[href*="#"]');
+
 var x = 1;
 
 setInterval(function() {

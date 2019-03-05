@@ -1,5 +1,5 @@
 h1 {
-  font-family: "Edwardian Script ITC";
+  font-family: 'Dancing Script';
   font-size: 80px;
   color: rgb(106, 112, 170);
 }
@@ -8,7 +8,7 @@ span {
   display: inline-block;
 }
 
-li {
+.menu li {
   font-family: "Arial";
   padding: 10 50px;
   font-size: 20px;
@@ -132,4 +132,44 @@ h3 {
 
 .cloth.si-3 {
   background-image: url(./flicker_3.jpg);
+}
+
+.footer {
+  text-align: center;
+  background-color: #efa1af;
+}
+
+.footer li {
+  display: inline;
+  margin: 0 5px;
+}
+
+.footer li a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.footer ul {
+  padding-left: 0;
+}
+
+.top {
+  position: fixed;
+  right: 100px;
+  bottom: 100px;
+  text-align: center;
+  line-height: 16px;
+  color: #000;
+  background-color: #eee;
+  padding: 10px;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+}
+
+.top:hover {
+  background-color: #d68190;
+  color: #fff;
+  text-decoration: none;
 }
