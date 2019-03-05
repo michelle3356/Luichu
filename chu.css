@@ -37,66 +37,99 @@ li {
   content: attr(data-en);
 }
 
-.menu-link:hover:before{
+.menu-link:hover:before {
   content: attr(data-zh);
 }
 
 .header {
   background-color: pink;
+  position: fixed;
+  z-index: 11;
+  width: 100%;
 }
 
-data-zh{
+.bd-example {
+  padding-top: 72px;
+}
+
+data-zh {
   font-family: SimSun;
 }
 
-.magnifier{
+.magnifier {
   height: 20px;
   width: 20px;
   margin-left: 150px;
 }
 
-.login{
+.login {
   height: 25px;
   width: 25px;
   margin-left: 5px;
 }
 
-.car{
+.car {
   height: 25px;
   width: 25px;
   margin-left: 5px;
 }
 
-.d-block{
+.d-block {
   height: 500px;
   width: 100px;
 }
 
-h3{
+h3 {
   font-family: Microsoft JhengHei;
   font-weight: bold;
   color: red;
   text-shadow: 5px 5px 3px black;
 }
 
-.middle{
-  position: absolute;
-  z-index: 1;
+.middle {
+  background-image: url(./bg_pink.jpg);
+  padding: 50px 0;
 }
 
-.middle_bg1{
-  position: relative;
-  z-index: 2;
+.middle_bg {
+  display: flex;
 }
 
-.middle_bg2{
-  position: relative;
-  z-index: 2;
+.img-block {
+  flex: 1;
   text-align: center;
 }
 
-.middle_bg3{
-  position: relative;
-  z-index: 2;
-  text-align: right;
+.img-block .img {
+  height: 440px;
+}
+
+.img-1 {
+  background-image: url(./bg1.jpg);
+}
+
+.img-2 {
+  background-image: url(./bg2.jpg);
+}
+
+.img-3 {
+  background-image: url(./bg3.jpg);
+}
+
+.switch-img {
+  height: 500px;
+  width: 400px;
+  display: inline-block;
+}
+
+.cloth.si-1 {
+  background-image: url(./flicker_1.jpg);
+}
+
+.cloth.si-2 {
+  background-image: url(./flicker_2.jpg);
+}
+
+.cloth.si-3 {
+  background-image: url(./flicker_3.jpg);
 }
