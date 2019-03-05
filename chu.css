@@ -79,11 +79,13 @@ data-zh {
   width: 100px;
 }
 
-h3 {
-  font-family: Microsoft JhengHei;
+.title {
+  font-family: 'Noto Sans TC';
   font-weight: bold;
-  color: red;
-  text-shadow: 5px 5px 3px black;
+  font-size: 50px;
+  background-color: rgba(0,0,0, .8);
+  display: inline-block;
+  padding: 15px 20px;
 }
 
 .middle {
@@ -120,23 +122,38 @@ h3 {
   height: 500px;
   width: 400px;
   display: inline-block;
+  margin-left: 230px;
 }
 
-.cloth.si-1 {
+.dress.si-1 {
   background-image: url(./flicker_1.jpg);
 }
 
-.cloth.si-2 {
+.dress.si-2 {
   background-image: url(./flicker_2.jpg);
 }
 
-.cloth.si-3 {
+.dress.si-3 {
   background-image: url(./flicker_3.jpg);
+}
+
+.clothes.si-1 {
+  background-image: url(./Japanese1.jpg);
+}
+
+.clothes.si-2 {
+  background-image: url(./Japanese2.jpg);
+}
+
+.clothes.si-3 {
+  background-image: url(./Japanese3.jpg);
 }
 
 .footer {
   text-align: center;
   background-color: #efa1af;
+  line-height: 40px;
+  font-size: 20px;
 }
 
 .footer li {
@@ -147,7 +164,7 @@ h3 {
 .footer li a {
   color: black;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .footer ul {
