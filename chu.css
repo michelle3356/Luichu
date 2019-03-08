@@ -48,12 +48,12 @@ span {
   width: 100%;
 }
 
-.bd-example {
-  padding-top: 72px;
-}
-
 data-zh {
   font-family: SimSun;
+}
+
+.bd-example {
+  padding-top: 72px;
 }
 
 .magnifier {
