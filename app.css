@@ -14,6 +14,7 @@ span {
   font-size: 20px;
   border: 2px;
   display: inline-block;
+  width: 150px;
 }
 
 .logo {
@@ -83,6 +84,7 @@ data-zh {
   background-color: #efa1af;
   line-height: 40px;
   font-size: 20px;
+  clear: both;
 }
 
 .footer li {
