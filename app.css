@@ -84,6 +84,10 @@ data-zh {
   float: left;
 }
 
+.list-link{
+  line-height: 30px;
+}
+
 #content {
   /* calculate的縮寫，會隨著視窗縮放，左右邊長度可固定任意數值，
   減去任意數值，會剛好置放剩下的區域。 */
