@@ -1,0 +1,43 @@
+{
+  "Total": 2,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P005002070100",
+    "ProductName": "A’room香遇美好身體乳",
+    "CoverImage": ["/product/P0050020701/P00500207-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 590,
+    "DiscountPrice": 445,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005002061500",
+    "ProductName": "A’room香遇美好沐浴露",
+    "CoverImage": ["/product/P0050020615/P00500206-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 490,
+    "DiscountPrice": 445,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}

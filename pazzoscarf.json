@@ -1,0 +1,81 @@
+{
+  "Total": 4,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P403013730300",
+    "ProductName": "\u0026 IN THING 寬版QQ圍巾",
+    "CoverImage": ["/product/P4030137303/P40301373-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013731900",
+    "ProductName": "\u0026 IN THING 寬版QQ圍巾",
+    "CoverImage": ["/product/P4030137319/P40301373-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013330900",
+    "ProductName": "注目搶眼豹紋流蘇圍巾",
+    "CoverImage": ["/product/P4030133309/P40301333-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006050800",
+    "ProductName": "流蘇麂皮披肩",
+    "CoverImage": ["/2016AW_item/w/P40300605/P40300605-22.jpg", "/2016AW_item/w/P40300605/P40300605-22M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 690,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}

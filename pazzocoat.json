@@ -1,0 +1,1292 @@
+{
+  "Total": 332,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P400063100303",
+    "ProductName": "拼接格紋水洗外套",
+    "CoverImage": ["/product/P4000631003/P40006310-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061920103",
+    "ProductName": "復古奶油排釦造型斜紋外套",
+    "CoverImage": ["/product/P4000619201/P40006192-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061920203",
+    "ProductName": "復古奶油排釦造型斜紋外套",
+    "CoverImage": ["/product/P4000619202/P40006192-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061921003",
+    "ProductName": "復古奶油排釦造型斜紋外套",
+    "CoverImage": ["/product/P4000619210/P40006192-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062980200",
+    "ProductName": "率性感袖抽繩飛行外套",
+    "CoverImage": ["/product/P4000629802/P40006298-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062980300",
+    "ProductName": "率性感袖抽繩飛行外套",
+    "CoverImage": ["/product/P4000629803/3-1.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062981500",
+    "ProductName": "率性感袖抽繩飛行外套",
+    "CoverImage": ["/product/P4000629815/P40006298-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063680200",
+    "ProductName": "率性休閒感棉麻風衣外套",
+    "CoverImage": ["/product/P4000636802/P40006368-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063680800",
+    "ProductName": "率性休閒感棉麻風衣外套",
+    "CoverImage": ["/product/P4000636808/P40006368-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063811000",
+    "ProductName": "MIT 糖果色系泡泡袖排釦外套(內刷毛)",
+    "CoverImage": ["/product/P4000638110/P40006381-41.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063811700",
+    "ProductName": "MIT 糖果色系泡泡袖排釦外套(內刷毛)",
+    "CoverImage": ["/product/P4000638117/P40006381-61.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063811900",
+    "ProductName": "MIT 糖果色系泡泡袖排釦外套(內刷毛)",
+    "CoverImage": ["/product/P4000638119/P40006381-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063812300",
+    "ProductName": "MIT 糖果色系泡泡袖排釦外套(內刷毛)",
+    "CoverImage": ["/product/P4000638123/P40006381-51.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062561900",
+    "ProductName": "V領造型下抽鬚牛仔外套",
+    "CoverImage": ["/product/P4000625619/P40006256-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 880,
+    "DiscountPrice": 880,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062241900",
+    "ProductName": "連帽格紋休閒襯衫外套",
+    "CoverImage": ["/product/P4000622419/P40006224-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061731900",
+    "ProductName": "率性磨破水洗感牛仔外套",
+    "CoverImage": ["/product/P4000617319/P40006173-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062690900",
+    "ProductName": "率性面磨毛長版襯衫式外套",
+    "CoverImage": ["/product/P4000626909/P40006269-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061950103",
+    "ProductName": "個性雙口袋斜紋外套",
+    "CoverImage": ["/product/P4000619501/1-1.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 599,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061950203",
+    "ProductName": "個性雙口袋斜紋外套",
+    "CoverImage": ["/product/P4000619502/P40006195-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 599,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061950703",
+    "ProductName": "個性雙口袋斜紋外套",
+    "CoverImage": ["/product/P4000619507/P40006195-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 599,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061951003",
+    "ProductName": "個性雙口袋斜紋外套",
+    "CoverImage": ["/product/P4000619510/P40006195-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 690,
+    "DiscountPrice": 599,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061952303",
+    "ProductName": "個性雙口袋斜紋外套",
+    "CoverImage": ["/product/P4000619523/P40006195-41.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 599,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062530303",
+    "ProductName": "率性感斜紋大口袋外套",
+    "CoverImage": ["/product/P4000625303/P40006253-11A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062530803",
+    "ProductName": "率性感斜紋大口袋外套",
+    "CoverImage": ["/product/P4000625308/P40006253-21A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062531903",
+    "ProductName": "率性感斜紋大口袋外套",
+    "CoverImage": ["/product/P4000625319/P40006253-31A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062800700",
+    "ProductName": "女孩感配色壓線風衣外套(附綁帶)",
+    "CoverImage": ["/product/P4000628007/P40006280-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 980,
+    "DiscountPrice": 980,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062990504",
+    "ProductName": "質感雙釦西裝外套",
+    "CoverImage": ["/product/P4000629905/P40006299-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 980,
+    "DiscountPrice": 980,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "L",
+      "Barcode": "04",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063071003",
+    "ProductName": "RICO莉可兔 冬日復古燈心絨短版夾克外套",
+    "CoverImage": ["/product/P4000630710/P40006307-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063072003",
+    "ProductName": "RICO莉可兔 冬日復古燈心絨短版夾克外套",
+    "CoverImage": ["/product/P4000630720/P40006307-21D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061370200",
+    "ProductName": "QQ泰迪熊連帽厚外套",
+    "CoverImage": ["/product/P4000613702/P40006137-11A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1380,
+    "DiscountPrice": 1380,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063010100",
+    "ProductName": "QQ熊寶寶翻領外套",
+    "CoverImage": ["/product/P4000630101/P40006301-11A.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 1190,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063010900",
+    "ProductName": "QQ熊寶寶翻領外套",
+    "CoverImage": ["/product/P4000630109/P40006301-21A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 1190,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061820300",
+    "ProductName": "磨毛感厚斜紋外套",
+    "CoverImage": ["/product/P4000618203/P40006182-21A.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061820700",
+    "ProductName": "磨毛感厚斜紋外套",
+    "CoverImage": ["/product/P4000618207/P40006182-11A.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061660300",
+    "ProductName": "率性魅力造型皮外套",
+    "CoverImage": ["/product/P4000616603/P40006166-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400060610300",
+    "ProductName": "清新柔美舒適針織外套",
+    "CoverImage": ["/product/P4000606103/P40006061-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1390,
+    "DiscountPrice": 1390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400060611000",
+    "ProductName": "清新柔美舒適針織外套",
+    "CoverImage": ["/product/P4000606110/P40006061-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1390,
+    "DiscountPrice": 1390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400060611200",
+    "ProductName": "清新柔美舒適針織外套",
+    "CoverImage": ["/product/P4000606112/P40006061-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1390,
+    "DiscountPrice": 1390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062120100",
+    "ProductName": "QQ毛絨絨綿羊外套",
+    "CoverImage": ["/product/P4000621201/P40006212-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1390,
+    "DiscountPrice": 1390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400063620200",
+    "ProductName": "ONI感毛絨絨開襟外搭背心",
+    "CoverImage": ["/product/P4000636202/P40006362-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1490,
+    "DiscountPrice": 1490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062880900",
+    "ProductName": "復古英倫毛呢翻領格紋外套",
+    "CoverImage": ["/product/P4000628809/P40006288-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062551900",
+    "ProductName": "\u0026 IN THING 兩穿牛仔外套",
+    "CoverImage": ["/product/P4000625519/P40006255-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062070303",
+    "ProductName": "MIT 蕾絲花邊拼接珍珠釦上衣/外套",
+    "CoverImage": ["/product/P4000620703/P40006207-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062071003",
+    "ProductName": "MIT 蕾絲花邊拼接珍珠釦上衣/外套",
+    "CoverImage": ["/product/P4000620710/P40006207-41.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062071503",
+    "ProductName": "MIT 蕾絲花邊拼接珍珠釦上衣/外套",
+    "CoverImage": ["/product/P4000620715/P40006207-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062072503",
+    "ProductName": "MIT 蕾絲花邊拼接珍珠釦上衣/外套",
+    "CoverImage": ["/product/P4000620725/P40006207-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062840200",
+    "ProductName": "澎袖坑條針織外套",
+    "CoverImage": ["/product/P4000628402/P40006284-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062840300",
+    "ProductName": "澎袖坑條針織外套",
+    "CoverImage": ["/product/P4000628403/3-1.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062840900",
+    "ProductName": "澎袖坑條針織外套",
+    "CoverImage": ["/product/P4000628409/P40006284-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061851200",
+    "ProductName": "優雅別針厚針織外套",
+    "CoverImage": ["/product/P4000618512/4-1.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061851900",
+    "ProductName": "優雅別針厚針織外套",
+    "CoverImage": ["/product/P4000618519/1-1.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062540304",
+    "ProductName": "率性男孩感格紋雙口袋外套",
+    "CoverImage": ["/product/P4000625403/P40006254-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "L",
+      "Barcode": "04",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062540904",
+    "ProductName": "率性男孩感格紋雙口袋外套",
+    "CoverImage": ["/product/P4000625409/P40006254-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "L",
+      "Barcode": "04",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061450900",
+    "ProductName": "日常厚風衣外套",
+    "CoverImage": ["/product/P4000614509/P40006145-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1380,
+    "DiscountPrice": 1380,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061451900",
+    "ProductName": "日常厚風衣外套",
+    "CoverImage": ["/product/P4000614519/P40006145-11D.gif", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1380,
+    "DiscountPrice": 1380,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061200200",
+    "ProductName": "暖冬配色線條針織外套",
+    "CoverImage": ["/product/P4000612002/P40006120-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061201500",
+    "ProductName": "暖冬配色線條針織外套",
+    "CoverImage": ["/product/P4000612015/P40006120-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400061201900",
+    "ProductName": "暖冬配色線條針織外套",
+    "CoverImage": ["/product/P4000612019/P40006120-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062100100",
+    "ProductName": "MIT 可愛小圓領片外套",
+    "CoverImage": ["/product/P4000621001/P40006210-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P400062100500",
+    "ProductName": "MIT 可愛小圓領片外套",
+    "CoverImage": ["/product/P4000621005/P40006210-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}

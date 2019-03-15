@@ -1,0 +1,898 @@
+{
+  "Total": 47,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P403014412600",
+    "ProductName": "星星貝殼不對稱墜飾耳環",
+    "CoverImage": ["/product/P4030144126/P40301441-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403014422600",
+    "ProductName": "小星星耳環",
+    "CoverImage": ["/product/P4030144226/P40301442-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403014442600",
+    "ProductName": "星星墜飾金屬耳環",
+    "CoverImage": ["/product/P4030144426/P40301444-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403014400100",
+    "ProductName": "甜美珍珠墜飾耳環",
+    "CoverImage": ["/product/P4030144001/P40301440-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": true,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013672600",
+    "ProductName": "閃亮鍊條垂墜針式耳環",
+    "CoverImage": ["/product/P4030136726/P40301367-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013690900",
+    "ProductName": "珍珠點綴鍊條針式耳環",
+    "CoverImage": ["/product/P4030136909/P40301369-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 290,
+    "DiscountPrice": 290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403014091500",
+    "ProductName": "絨面圓圈簍空針式耳環",
+    "CoverImage": ["/product/P4030140915/P40301409-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 290,
+    "DiscountPrice": 290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013662300",
+    "ProductName": "方塊圓木頭撞色針式耳環",
+    "CoverImage": ["/product/P4030136623/P40301366-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 290,
+    "DiscountPrice": 290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013990100",
+    "ProductName": "星星球球珍珠耳環",
+    "CoverImage": ["/product/P4030139901/P40301399-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013990500",
+    "ProductName": "星星球球珍珠耳環",
+    "CoverImage": ["/product/P4030139905/P40301399-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013991000",
+    "ProductName": "星星球球珍珠耳環",
+    "CoverImage": ["/product/P4030139910/P40301399-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013991200",
+    "ProductName": "星星球球珍珠耳環",
+    "CoverImage": ["/product/P4030139912/P40301399-41.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010162600",
+    "ProductName": "韓國透明光澤珍珠耳環",
+    "CoverImage": ["/product/P4030101626/P40301016-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013210900",
+    "ProductName": "豹紋蝴蝶結造型針式耳環",
+    "CoverImage": ["/product/P4030132109/P40301321-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013161000",
+    "ProductName": "甜美花朵圈圈造型針式耳環",
+    "CoverImage": ["/product/P4030131610/P40301316-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012682600",
+    "ProductName": "幾何簍空造型耳環",
+    "CoverImage": ["/product/P4030126826/P40301268-12.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012682700",
+    "ProductName": "幾何簍空造型耳環",
+    "CoverImage": ["/product/P4030126827/P40301268-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013000900",
+    "ProductName": "簍空圈圈不規則耳環",
+    "CoverImage": ["/product/P4030130009/P40301300-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012612600",
+    "ProductName": "珍珠點綴光澤金屬耳環",
+    "CoverImage": ["/product/P4030126126/P40301261-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012420900",
+    "ProductName": "豹紋/貝殼光澤感菱形針式耳環",
+    "CoverImage": ["/product/P4030124209/P40301242-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012432600",
+    "ProductName": "垂墜條珍珠鏤空圈針式耳環",
+    "CoverImage": ["/product/P4030124326/P40301243-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012200900",
+    "ProductName": "豹紋造型簍空壓克力耳環",
+    "CoverImage": ["/product/P4030122009/P40301220-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012040200",
+    "ProductName": "優雅光澤方形糖針式耳環",
+    "CoverImage": ["/product/P4030120402/P40301204-12.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 290,
+    "DiscountPrice": 290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403012042300",
+    "ProductName": "優雅光澤方形糖針式耳環",
+    "CoverImage": ["/product/P4030120423/P40301204-22.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 290,
+    "DiscountPrice": 290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011241800",
+    "ProductName": "流行感透明圈圈耳環",
+    "CoverImage": ["/product/P4030112418/P40301124-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011402600",
+    "ProductName": "奪目迷人珍珠細鑽鍊條耳環",
+    "CoverImage": ["/2018SS_item/w/P40301140/P40301140-11.jpg", "/2018SS_item/w/P40301140/P40301140-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011182500",
+    "ProductName": "個性小巧透明暈染耳環",
+    "CoverImage": ["/2018SS_item/w/P40301118/P40301118-14.jpg", "/2018SS_item/w/P40301118/P40301118-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011520100",
+    "ProductName": "木質拼接圓型藤編針式耳環",
+    "CoverImage": ["/2018SS_item/w/P40301152/P40301152-14.jpg", "/2018SS_item/w/P40301152/P40301152-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011520900",
+    "ProductName": "木質拼接圓型藤編針式耳環",
+    "CoverImage": ["/2018SS_item/w/P40301152/P40301152-23.jpg", "/2018SS_item/w/P40301152/P40301152-23M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011252600",
+    "ProductName": "簡約高雅拼接耳環",
+    "CoverImage": ["/2018SS_item/w/P40301125/P40301125-14.jpg", "/2018SS_item/w/P40301125/P40301125-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010550100",
+    "ProductName": "質感圓圈造型耳環",
+    "CoverImage": ["/2018SS_item/w/P40301055/P40301055-12.jpg", "/2018SS_item/w/P40301055/P40301055-12M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010550200",
+    "ProductName": "質感圓圈造型耳環",
+    "CoverImage": ["/2018SS_item/w/P40301055/P40301055-22.jpg", "/2018SS_item/w/P40301055/P40301055-22M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010862600",
+    "ProductName": "愛心層次感珍珠垂墜耳環",
+    "CoverImage": ["/2018SS_item/w/P40301086/P40301086-12.jpg", "/2018SS_item/w/P40301086/P40301086-12M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403009722300",
+    "ProductName": "韓國甜美糖果色系格紋耳環",
+    "CoverImage": ["/2018SS_item/w/P40300972/P40300972-11.jpg", "/2018SS_item/w/P40300972/P40300972-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403009591000",
+    "ProductName": "韓國混呢橢圓簍空耳環",
+    "CoverImage": ["/2018SS_item/w/P40300959/P40300959-32.jpg", "/2018SS_item/w/P40300959/P40300959-32M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403009542600",
+    "ProductName": "韓國質感簍空不規則耳環",
+    "CoverImage": ["/2018SS_item/w/P40300954/P40300954-11.jpg", "/2018SS_item/w/P40300954/P40300954-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403009050500",
+    "ProductName": "韓國冬日氣息絨面圓形針式耳環",
+    "CoverImage": ["/2018SS_item/w/P40300905/P40300905-21.jpg", "/2018SS_item/w/P40300905/P40300905-21M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403009052300",
+    "ProductName": "韓國冬日氣息絨面圓形針式耳環",
+    "CoverImage": ["/2018SS_item/w/P40300905/P40300905-11.jpg", "/2018SS_item/w/P40300905/P40300905-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403008732300",
+    "ProductName": "韓國圓型格紋針式耳環",
+    "CoverImage": ["/2017AW_item/w/P40300873/P40300873-44.jpg", "/2017AW_item/w/P40300873/P40300873-44M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403007760300",
+    "ProductName": "芭蕾圓舞曲圈圈雪紡耳環",
+    "CoverImage": ["/2017AW_item/w/P40300776/P40300776-25.jpg", "/2017AW_item/w/P40300776/P40300776-25M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006872300",
+    "ProductName": "韓國優雅毛球垂墜耳環",
+    "CoverImage": ["/2017SS_item/w/P40300687/P40300687-31.jpg", "/2017SS_item/w/P40300687/P40300687-31M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006470300",
+    "ProductName": "時尚毛球吊墜耳環",
+    "CoverImage": ["/2016AW_item/w/P40300647/P40300647-33.jpg", "/2016AW_item/w/P40300647/P40300647-33M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006420300",
+    "ProductName": "韓國扇形毛球金屬耳環",
+    "CoverImage": ["/2016AW_item/w/P40300642/P40300642-11.jpg", "/2016AW_item/w/P40300642/P40300642-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006421300",
+    "ProductName": "韓國扇形毛球金屬耳環",
+    "CoverImage": ["/2016AW_item/w/P40300642/P40300642-23.jpg", "/2016AW_item/w/P40300642/P40300642-23M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 490,
+    "DiscountPrice": 490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006460300",
+    "ProductName": "毛球圈圈耳環",
+    "CoverImage": ["/2016AW_item/w/P40300646/P40300646-15.jpg", "/2016AW_item/w/P40300646/P40300646-15M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006120300",
+    "ProductName": "CHIC 毛球珍珠吊墜耳環",
+    "CoverImage": ["/2016AW_item/w/P40300612/P40300612-22.jpg", "/2016AW_item/w/P40300612/P40300612-22M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006320300",
+    "ProductName": "韓國BOHO珍珠流蘇耳環",
+    "CoverImage": ["/2016AW_item/w/P40300632/P40300632-33.jpg", "/2016AW_item/w/P40300632/P40300632-33M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}

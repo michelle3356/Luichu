@@ -1,0 +1,746 @@
+{
+  "Total": 39,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P005002000100",
+    "ProductName": "RICO莉可兔 可愛毛茸茸拉鍊腰包(附背帶)",
+    "CoverImage": ["/product/P0050020001/P00500200-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": true,
+      "IsPreOrderProduct": true,
+      "IsPreOrderSoldOut": false,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013870200",
+    "ProductName": "冬日氛圍毛毛包",
+    "CoverImage": ["/product/P4030138702/P40301387-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005002010200",
+    "ProductName": "BUTTER 奶油印花挺版托特包",
+    "CoverImage": ["/product/P0050020102/P00500201-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 680,
+    "DiscountPrice": 680,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013430200",
+    "ProductName": "毛毛手提水桶包",
+    "CoverImage": ["/product/P4030134302/P40301343-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403013430300",
+    "ProductName": "毛毛手提水桶包",
+    "CoverImage": ["/product/P4030134303/P40301343-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 890,
+    "DiscountPrice": 890,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001920100",
+    "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
+    "CoverImage": ["/product/P0050019201/P00500192-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001922500",
+    "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
+    "CoverImage": ["/product/P0050019225/P00500192-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001871200",
+    "ProductName": "A\u0027NOTHER AND 霧面質感零錢包",
+    "CoverImage": ["/product/P0050018712/P00500187-31D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 680,
+    "DiscountPrice": 680,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001880900",
+    "ProductName": "A\u0027NOTHER AND 質感側背方型包（附可拆式背帶)",
+    "CoverImage": ["/product/P0050018809/P00500188-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1180,
+    "DiscountPrice": 1180,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001881200",
+    "ProductName": "A\u0027NOTHER AND 質感側背方型包（附可拆式背帶)",
+    "CoverImage": ["/product/P0050018812/P00500188-31D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 1180,
+    "DiscountPrice": 1180,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001860300",
+    "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
+    "CoverImage": ["/product/P0050018603/P00500186-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001860700",
+    "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
+    "CoverImage": ["/product/P0050018607/P00500186-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001861900",
+    "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
+    "CoverImage": ["/product/P0050018619/P00500186-41.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001862500",
+    "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
+    "CoverImage": ["/product/P0050018625/P00500186-31.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001840100",
+    "ProductName": "PANTONE UNIVERSE 標語透明托特包",
+    "CoverImage": ["/product/P0050018401/P00500184-11D.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": true,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005001842500",
+    "ProductName": "PANTONE UNIVERSE 標語透明托特包",
+    "CoverImage": ["/product/P0050018425/P00500184-21.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011960200",
+    "ProductName": "金屬異材拼接透明包",
+    "CoverImage": ["/product/P4030119602/P40301196-11.jpg", ""],
+    "HasTwoCover": false,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011360700",
+    "ProductName": "甜美荷葉造型手提竹編籃",
+    "CoverImage": ["/2018SS_item/w/P40301136/P40301136-11.jpg", "/2018SS_item/w/P40301136/P40301136-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1490,
+    "DiscountPrice": 1490,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010940900",
+    "ProductName": "夏日簍空編織手提包",
+    "CoverImage": ["/2018SS_item/w/P40301094/P40301094-14.jpg", "/2018SS_item/w/P40301094/P40301094-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011340100",
+    "ProductName": "時髦百搭透明水桶包",
+    "CoverImage": ["/2018SS_item/w/P40301134/P40301134-15.jpg", "/2018SS_item/w/P40301134/P40301134-15M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011970200",
+    "ProductName": "夏日完美造型透明水桶包",
+    "CoverImage": ["/2018SS_item/w/P40301197/P40301197-14.jpg", "/2018SS_item/w/P40301197/P40301197-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 990,
+    "DiscountPrice": 990,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011990100",
+    "ProductName": "網布渡假沙灘包",
+    "CoverImage": ["/2018SS_item/w/P40301199/P40301199-15.jpg", "/2018SS_item/w/P40301199/P40301199-15M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 590,
+    "DiscountPrice": 590,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011980200",
+    "ProductName": "渡假感毛球竹編籃",
+    "CoverImage": ["/2018SS_item/w/P40301198/P40301198-11.jpg", "/2018SS_item/w/P40301198/P40301198-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 1190,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010980200",
+    "ProductName": "自然清新編織小包",
+    "CoverImage": ["/2018SS_item/w/P40301098/P40301098-15.jpg", "/2018SS_item/w/P40301098/P40301098-15M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011271200",
+    "ProductName": "復古百搭寬背帶皮革方包",
+    "CoverImage": ["/2018SS_item/w/P40301127/P40301127-13.jpg", "/2018SS_item/w/P40301127/P40301127-13M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1690,
+    "DiscountPrice": 1690,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011370300",
+    "ProductName": "夏日簡約休閒束口包",
+    "CoverImage": ["/2018SS_item/w/P40301137/P40301137-23.jpg", "/2018SS_item/w/P40301137/P40301137-23M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010960700",
+    "ProductName": "夏日百搭織帶配色竹編籃",
+    "CoverImage": ["/2018SS_item/w/P40301096/P40301096-15.jpg", "/2018SS_item/w/P40301096/P40301096-15M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1090,
+    "DiscountPrice": 1090,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010970900",
+    "ProductName": "清新亮眼配色織物背袋",
+    "CoverImage": ["/2018SS_item/w/P40301097/P40301097-25.jpg", "/2018SS_item/w/P40301097/P40301097-25M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 690,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010972300",
+    "ProductName": "清新亮眼配色織物背袋",
+    "CoverImage": ["/2018SS_item/w/P40301097/P40301097-13.jpg", "/2018SS_item/w/P40301097/P40301097-13M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 690,
+    "DiscountPrice": 690,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011001200",
+    "ProductName": "韓妞休閒條紋手提包",
+    "CoverImage": ["/2018SS_item/w/P40301100/P40301100-16.jpg", "/2018SS_item/w/P40301100/P40301100-16M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 1190,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011142300",
+    "ProductName": "OH! SUMMER 撞色文字織物背包",
+    "CoverImage": ["/2018SS_item/w/P40301114/P40301114-14.jpg", "/2018SS_item/w/P40301114/P40301114-14M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 790,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011310200",
+    "ProductName": "透明帆布束口水桶包",
+    "CoverImage": ["/2018SS_item/w/P40301131/P40301131-13.jpg", "/2018SS_item/w/P40301131/P40301131-13M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011312500",
+    "ProductName": "透明帆布束口水桶包",
+    "CoverImage": ["/2018SS_item/w/P40301131/P40301131-25.jpg", "/2018SS_item/w/P40301131/P40301131-25M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403011131500",
+    "ProductName": "質感皮革寬背帶包包",
+    "CoverImage": ["/2018SS_item/w/P40301113/P40301113-31.jpg", "/2018SS_item/w/P40301113/P40301113-31M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1390,
+    "DiscountPrice": 1390,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403010600700",
+    "ProductName": "可愛荷葉緞帶拼接竹編籃",
+    "CoverImage": ["/2018SS_item/w/P40301060/P40301060-11.jpg", "/2018SS_item/w/P40301060/P40301060-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1290,
+    "DiscountPrice": 1290,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P005000910100",
+    "ProductName": "MIT MY darling,美好生活提袋",
+    "CoverImage": ["/2017SS_item/w/P00500091/P00500091-B.jpg", "/2017SS_item/w/P00500091/P00500091-BM.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 390,
+    "DiscountPrice": 390,
+    "IsMit": true,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006860300",
+    "ProductName": "韓國CHIC LADY釦環手拿包",
+    "CoverImage": ["/2017SS_item/w/P40300686/P40300686-21.jpg", "/2017SS_item/w/P40300686/P40300686-21M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1580,
+    "DiscountPrice": 1580,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403006860800",
+    "ProductName": "韓國CHIC LADY釦環手拿包",
+    "CoverImage": ["/2017SS_item/w/P40300686/P40300686-11.jpg", "/2017SS_item/w/P40300686/P40300686-11M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1580,
+    "DiscountPrice": 1580,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P403005830700",
+    "ProductName": "韓國法式綁帶竹編束口袋",
+    "CoverImage": ["/2016SS_item/w/P40300583/P40300583-18.jpg", "/2016SS_item/w/P40300583/P40300583-18M.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1380,
+    "DiscountPrice": 1380,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "F",
+      "Barcode": "00",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}

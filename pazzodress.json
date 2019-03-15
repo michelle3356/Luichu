@@ -1,0 +1,161 @@
+{
+  "Total": 6,
+  "Filters": [],
+  "Items": [{
+    "Barcode": "P402023300203",
+    "ProductName": "夏日隨性碎花套裝(三件式)",
+    "CoverImage": ["/2018SS_item/w/P40202330/P40202330-21D.jpg", "/2018SS_item/w/P40202330/P40202330-21DM.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1090,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P402023301003",
+    "ProductName": "夏日隨性碎花套裝(三件式)",
+    "CoverImage": ["/2018SS_item/w/P40202330/P40202330-11D.gif", "/2018SS_item/w/P40202330/P40202330-11DM.gif"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1090,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P402023302003",
+    "ProductName": "夏日隨性碎花套裝(三件式)",
+    "CoverImage": ["/2018SS_item/w/P40202330/P40202330-31D.gif", "/2018SS_item/w/P40202330/P40202330-31DM.gif"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1090,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P402023191203",
+    "ProductName": "雪紡壓皺紋理細肩帶碎花洋",
+    "CoverImage": ["/2018SS_item/w/P40202319/P40202319-11D.jpg", "/2018SS_item/w/P40202319/P40202319-11DM.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P402023191503",
+    "ProductName": "雪紡壓皺紋理細肩帶碎花洋",
+    "CoverImage": ["/2018SS_item/w/P40202319/P40202319-31D.jpg", "/2018SS_item/w/P40202319/P40202319-31DM.jpg"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }, {
+    "Barcode": "P402023192503",
+    "ProductName": "雪紡壓皺紋理細肩帶碎花洋",
+    "CoverImage": ["/2018SS_item/w/P40202319/P40202319-21D.gif", "/2018SS_item/w/P40202319/P40202319-21DM.gif"],
+    "HasTwoCover": true,
+    "IsLargeCoverImage": false,
+    "SellingPrice": 1190,
+    "DiscountPrice": 790,
+    "IsMit": false,
+    "IsNew": false,
+    "Sizes": [{
+      "Size": "S",
+      "Barcode": "02",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }, {
+      "Size": "M",
+      "Barcode": "03",
+      "IsSoldOut": false,
+      "IsPreOrderProduct": false,
+      "IsPreOrderSoldOut": true,
+      "IsNotice": true
+    }],
+    "EnabledDt": ""
+  }]
+}
