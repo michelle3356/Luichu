@@ -47,6 +47,7 @@ span {
   position: fixed;
   z-index: 11;
   width: 100%;
+  height: 61px;
 }
 
 data-zh {
@@ -71,12 +72,27 @@ data-zh {
   margin-left: 5px;
 }
 
-.list{
+#wrapper {
   padding-top: 61px;
   background-color: pink;
-  /* margin-right: 1200px; */
-  float: left;
+}
 
+.list{
+  /* margin-right: 1200px; */
+  width: 220px;
+  display: inline-block;
+  float: left;
+}
+
+#content {
+  /* calculate的縮寫，會隨著視窗縮放，左右邊長度可固定任意數值，
+  減去任意數值，會剛好置放剩下的區域。 */
+  width: calc(100% - 220px);
+  display: inline-block;
+  background-color: #fff;
+  /* viewport height為瀏覽器中可見範圍的高度，
+  這邊要設定最小高度，讓內容可以隨著長度變化。 */
+  min-height: calc(100vh - 241px);
 }
 
 .footer {
