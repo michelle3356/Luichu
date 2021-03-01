@@ -23,7 +23,7 @@
   }, {
     "Barcode": "P403013870200",
     "ProductName": "冬日氛圍毛毛包",
-    "CoverImage": ["/images/bag/2.jpg", ""],
+    "CoverImage": ["images/bag/2.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,
@@ -42,7 +42,7 @@
   }, {
     "Barcode": "P005002010200",
     "ProductName": "BUTTER 奶油印花挺版托特包",
-    "CoverImage": ["/images/bag/3.jpg", ""],
+    "CoverImage": ["images/bag/3.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 680,
@@ -61,7 +61,7 @@
   }, {
     "Barcode": "P403013430200",
     "ProductName": "毛毛手提水桶包",
-    "CoverImage": ["/images/bag/4.jpg", ""],
+    "CoverImage": ["images/bag/4.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 890,
@@ -80,7 +80,7 @@
   }, {
     "Barcode": "P403013430300",
     "ProductName": "毛毛手提水桶包",
-    "CoverImage": ["/images/bag/5.jpg", ""],
+    "CoverImage": ["images/bag/5.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 890,
@@ -99,7 +99,7 @@
   }, {
     "Barcode": "P005001920100",
     "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
-    "CoverImage": ["/images/bag/6.jpg", ""],
+    "CoverImage": ["images/bag/6.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -118,7 +118,7 @@
   }, {
     "Barcode": "P005001922500",
     "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
-    "CoverImage": ["/images/bag/7.jpg", ""],
+    "CoverImage": ["images/bag/7.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -137,7 +137,7 @@
   }, {
     "Barcode": "P005001871200",
     "ProductName": "A\u0027NOTHER AND 霧面質感零錢包",
-    "CoverImage": ["/images/bag/8.jpg", ""],
+    "CoverImage": ["images/bag/8.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 680,
@@ -156,7 +156,7 @@
   }, {
     "Barcode": "P005001880900",
     "ProductName": "A\u0027NOTHER AND 質感側背方型包（附可拆式背帶)",
-    "CoverImage": ["/images/bag/9.jpg", ""],
+    "CoverImage": ["images/bag/9.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 1180,
@@ -175,7 +175,7 @@
   }, {
     "Barcode": "P005001881200",
     "ProductName": "A\u0027NOTHER AND 質感側背方型包（附可拆式背帶)",
-    "CoverImage": ["/images/bag/10.jpg", ""],
+    "CoverImage": ["images/bag/10.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 1180,
@@ -194,7 +194,7 @@
   }, {
     "Barcode": "P005001860300",
     "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
-    "CoverImage": ["/images/bag/11.jpg", ""],
+    "CoverImage": ["images/bag/11.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -213,7 +213,7 @@
   }, {
     "Barcode": "P005001860700",
     "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
-    "CoverImage": ["/images/bag/12.jpg", ""],
+    "CoverImage": ["images/bag/12.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -232,7 +232,7 @@
   }, {
     "Barcode": "P005001861900",
     "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
-    "CoverImage": ["/images/bag/13.jpg", ""],
+    "CoverImage": ["images/bag/13.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -251,7 +251,7 @@
   }, {
     "Barcode": "P005001862500",
     "ProductName": "PANTONE UNIVERSE- IT\u0027S A BAG. 帆布托特包",
-    "CoverImage": ["/images/bag/14.jpg", ""],
+    "CoverImage": ["images/bag/14.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -270,7 +270,7 @@
   }, {
     "Barcode": "P005001840100",
     "ProductName": "PANTONE UNIVERSE 標語透明托特包",
-    "CoverImage": ["/images/bag/15.jpg", ""],
+    "CoverImage": ["images/bag/15.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 590,
@@ -289,7 +289,7 @@
   }, {
     "Barcode": "P005001842500",
     "ProductName": "PANTONE UNIVERSE 標語透明托特包",
-    "CoverImage": ["/images/bag/16.jpg", ""],
+    "CoverImage": ["images/bag/16.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -308,7 +308,7 @@
   }, {
     "Barcode": "P403011960200",
     "ProductName": "金屬異材拼接透明包",
-    "CoverImage": ["/images/bag/17.jpg", ""],
+    "CoverImage": ["images/bag/17.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,
@@ -327,7 +327,7 @@
   }, {
     "Barcode": "P403011360700",
     "ProductName": "甜美荷葉造型手提竹編籃",
-    "CoverImage": ["/images/bag/18.jpg", "/images/bag/19.jpg.jpg"],
+    "CoverImage": ["images/bag/18.jpg", "images/bag/19.jpg.jpg"],
     "HasTwoCover": true,
     "IsLargeCoverImage": false,
     "SellingPrice": 1490,
@@ -346,7 +346,7 @@
   }, {
     "Barcode": "P403010940900",
     "ProductName": "夏日簍空編織手提包",
-    "CoverImage": ["/images/bag/20.jpg", "/images/bag/21.jpg"],
+    "CoverImage": ["images/bag/20.jpg", "images/bag/21.jpg"],
     "HasTwoCover": true,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,

@@ -4,7 +4,7 @@
   "Items": [{
     "Barcode": "P400063450204",
     "ProductName": "舒適自在V領針織背心",
-    "CoverImage": ["/product/P4000634502/P40006345-21.jpg", ""],
+    "CoverImage": ["images/clothes/1.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -37,7 +37,7 @@
   }, {
     "Barcode": "P400063450504",
     "ProductName": "舒適自在V領針織背心",
-    "CoverImage": ["/product/P4000634505/P40006345-31.jpg", ""],
+    "CoverImage": ["images/clothes/2.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -70,7 +70,7 @@
   }, {
     "Barcode": "P400063451004",
     "ProductName": "舒適自在V領針織背心",
-    "CoverImage": ["/product/P4000634510/P40006345-11.jpg", ""],
+    "CoverImage": ["images/clothes/3.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -103,7 +103,7 @@
   }, {
     "Barcode": "P400063460203",
     "ProductName": "女孩感後綁結外搭針織背心",
-    "CoverImage": ["/product/P4000634602/P40006346-11D.gif", ""],
+    "CoverImage": ["images/clothes/4.gif", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -129,7 +129,7 @@
   }, {
     "Barcode": "P400063460303",
     "ProductName": "女孩感後綁結外搭針織背心",
-    "CoverImage": ["/product/P4000634603/P40006346-31.jpg", ""],
+    "CoverImage": ["images/clothes/5.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -155,7 +155,7 @@
   }, {
     "Barcode": "P400063460503",
     "ProductName": "女孩感後綁結外搭針織背心",
-    "CoverImage": ["/product/P4000634605/P40006346-21.jpg", ""],
+    "CoverImage": ["images/clothes/6.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -181,7 +181,7 @@
   }, {
     "Barcode": "P400063620200",
     "ProductName": "ONI感毛絨絨開襟外搭背心",
-    "CoverImage": ["/product/P4000636202/P40006362-11.jpg", ""],
+    "CoverImage": ["images/clothes/7.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 1490,
@@ -200,7 +200,7 @@
   }, {
     "Barcode": "P400063480300",
     "ProductName": "圓領針織長版背心",
-    "CoverImage": ["/product/P4000634803/P40006348-21.jpg", ""],
+    "CoverImage": ["images/clothes/8.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -219,7 +219,7 @@
   }, {
     "Barcode": "P400063480600",
     "ProductName": "圓領針織長版背心",
-    "CoverImage": ["/product/P4000634806/P40006348-31.jpg", ""],
+    "CoverImage": ["images/clothes/9.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -238,7 +238,7 @@
   }, {
     "Barcode": "P400063480900",
     "ProductName": "圓領針織長版背心",
-    "CoverImage": ["/product/P4000634809/P40006348-11.jpg", ""],
+    "CoverImage": ["images/clothes/10.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -257,7 +257,7 @@
   }, {
     "Barcode": "P400062200200",
     "ProductName": "V領針織細肩帶背心",
-    "CoverImage": ["/product/P4000622002/P40006220-21.jpg", ""],
+    "CoverImage": ["images/clothes/11.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -276,7 +276,7 @@
   }, {
     "Barcode": "P400062200300",
     "ProductName": "V領針織細肩帶背心",
-    "CoverImage": ["/product/P4000622003/P40006220-11.jpg", ""],
+    "CoverImage": ["images/clothes/12.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -295,7 +295,7 @@
   }, {
     "Barcode": "P400062200900",
     "ProductName": "V領針織細肩帶背心",
-    "CoverImage": ["/product/P4000622009/P40006220-31.jpg", ""],
+    "CoverImage": ["images/clothes/13.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -314,7 +314,7 @@
   }, {
     "Barcode": "P400063360200",
     "ProductName": "滾邊配色長版針織開衩背心",
-    "CoverImage": ["/product/P4000633602/P40006336-11.jpg", ""],
+    "CoverImage": ["images/clothes/14.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,
@@ -333,7 +333,7 @@
   }, {
     "Barcode": "P400063360900",
     "ProductName": "滾邊配色長版針織開衩背心",
-    "CoverImage": ["/product/P4000633609/P40006336-21.jpg", ""],
+    "CoverImage": ["images/clothes/15.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,
@@ -352,7 +352,7 @@
   }, {
     "Barcode": "P400060050303",
     "ProductName": "學院風字母針織背心",
-    "CoverImage": ["/product/P4000600503/P40006005-11.jpg", ""],
+    "CoverImage": ["images/clothes/16.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -378,7 +378,7 @@
   }, {
     "Barcode": "P400060510304",
     "ProductName": "暖冬舒適坑紋針織長版背心",
-    "CoverImage": ["/product/P4000605103/P40006051-21.jpg", ""],
+    "CoverImage": ["images/clothes/17.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -411,7 +411,7 @@
   }, {
     "Barcode": "P400060510504",
     "ProductName": "暖冬舒適坑紋針織長版背心",
-    "CoverImage": ["/product/P4000605105/P40006051-11.jpg", ""],
+    "CoverImage": ["images/clothes/18.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 690,
@@ -444,7 +444,7 @@
   }, {
     "Barcode": "P400061570903",
     "ProductName": "時髦豹紋短版v領針織背心",
-    "CoverImage": ["/product/P4000615709/P40006157-11D.jpg", ""],
+    "CoverImage": ["images/clothes/19.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 790,
@@ -470,7 +470,7 @@
   }, {
     "Barcode": "P400059482300",
     "ProductName": "粗針織短版寬鬆背心",
-    "CoverImage": ["/product/P4000594823/P40005948-42.jpg", ""],
+    "CoverImage": ["images/clothes/20.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -489,7 +489,7 @@
   }, {
     "Barcode": "P400058770500",
     "ProductName": "毛呢感側綁結無袖背心",
-    "CoverImage": ["/product/P4000587705/P40005877-B.jpg", ""],
+    "CoverImage": ["images/clothes/21.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -508,7 +508,7 @@
   }, {
     "Barcode": "P400058771500",
     "ProductName": "毛呢感側綁結無袖背心",
-    "CoverImage": ["/product/P4000587715/P40005877-11A.jpg", ""],
+    "CoverImage": ["images/clothes/22.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -527,7 +527,7 @@
   }, {
     "Barcode": "P400058772000",
     "ProductName": "毛呢感側綁結無袖背心",
-    "CoverImage": ["/product/P4000587720/P40005877-21A.jpg", ""],
+    "CoverImage": ["images/clothes/23.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -546,7 +546,7 @@
   }, {
     "Barcode": "P400059440304",
     "ProductName": "PANTONE UNIVERSE MIT隨興滾邊短版背心BRAT",
-    "CoverImage": ["/product/P4000594403/P40005944-21.jpg", ""],
+    "CoverImage": ["images/clothes/24.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -579,7 +579,7 @@
   }, {
     "Barcode": "P400059441504",
     "ProductName": "PANTONE UNIVERSE MIT隨興滾邊短版背心BRAT",
-    "CoverImage": ["/product/P4000594415/P40005944-11D.jpg", ""],
+    "CoverImage": ["images/clothes/25.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -612,7 +612,7 @@
   }, {
     "Barcode": "P400059441904",
     "ProductName": "PANTONE UNIVERSE MIT隨興滾邊短版背心BRAT",
-    "CoverImage": ["/product/P4000594419/P40005944-31.jpg", ""],
+    "CoverImage": ["images/clothes/26.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -645,7 +645,7 @@
   }, {
     "Barcode": "P400059191504",
     "ProductName": "PANTONE UNIVERSE 刺繡標語無袖背心",
-    "CoverImage": ["/product/P4000591915/P40005919-31.jpg", ""],
+    "CoverImage": ["images/clothes/27.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -678,7 +678,7 @@
   }, {
     "Barcode": "P400059191904",
     "ProductName": "PANTONE UNIVERSE 刺繡標語無袖背心",
-    "CoverImage": ["/product/P4000591919/P40005919-11D.jpg", ""],
+    "CoverImage": ["images/clothes/28.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -711,7 +711,7 @@
   }, {
     "Barcode": "P400059192404",
     "ProductName": "PANTONE UNIVERSE 刺繡標語無袖背心",
-    "CoverImage": ["/product/P4000591924/P40005919-21D.jpg", ""],
+    "CoverImage": ["images/clothes/29.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -744,7 +744,7 @@
   }, {
     "Barcode": "P400059280104",
     "ProductName": "MIT 質感緞面V領蕾絲內搭背心",
-    "CoverImage": ["/product/P4000592801/P40005928-11.jpg", ""],
+    "CoverImage": ["images/clothes/30.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -777,7 +777,7 @@
   }, {
     "Barcode": "P400059280304",
     "ProductName": "MIT 質感緞面V領蕾絲內搭背心",
-    "CoverImage": ["/product/P4000592803/P40005928-21.jpg", ""],
+    "CoverImage": ["images/clothes/31.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -810,7 +810,7 @@
   }, {
     "Barcode": "P400058690104",
     "ProductName": "歐美質感削肩雪紡背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000586901/P40005869-11.jpg", ""],
+    "CoverImage": ["images/clothes/32.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -843,7 +843,7 @@
   }, {
     "Barcode": "P400058690304",
     "ProductName": "歐美質感削肩雪紡背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000586903/P40005869-31.jpg", ""],
+    "CoverImage": ["images/clothes/33.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -876,7 +876,7 @@
   }, {
     "Barcode": "P400058691003",
     "ProductName": "歐美質感削肩雪紡背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000586910/P40005869-21.jpg", ""],
+    "CoverImage": ["images/clothes/34.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -902,7 +902,7 @@
   }, {
     "Barcode": "P400058692303",
     "ProductName": "歐美質感削肩雪紡背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000586923/P40005869-41D.jpg", ""],
+    "CoverImage": ["images/clothes/35.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -928,7 +928,7 @@
   }, {
     "Barcode": "P400059950103",
     "ProductName": "MIT 可愛珍奶印花背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000599501/P40005995-11D.jpg", ""],
+    "CoverImage": ["images/clothes/36.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 390,
@@ -947,7 +947,7 @@
   }, {
     "Barcode": "P400059950904",
     "ProductName": "MIT 可愛珍奶印花背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000599509/2-1.jpg", ""],
+    "CoverImage": ["images/clothes/37.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -973,7 +973,7 @@
   }, {
     "Barcode": "P400059251204",
     "ProductName": "歐美質感緞面開釦背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000592512/P40005925-11D.jpg", ""],
+    "CoverImage": ["images/clothes/38.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 490,
@@ -1006,7 +1006,7 @@
   }, {
     "Barcode": "P400059251904",
     "ProductName": "歐美質感緞面開釦背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000592519/P40005925-31.jpg", ""],
+    "CoverImage": ["images/clothes/39.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1039,7 +1039,7 @@
   }, {
     "Barcode": "P400059252304",
     "ProductName": "歐美質感緞面開釦背心(TIFFANY聯名款)",
-    "CoverImage": ["/product/P4000592523/P40005925-21.jpg", ""],
+    "CoverImage": ["images/clothes/40.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1065,7 +1065,7 @@
   }, {
     "Barcode": "P400058400204",
     "ProductName": "針織小立領花紋側綁帶罩衫背心",
-    "CoverImage": ["/product/P4000584002/P40005840-11.jpg", ""],
+    "CoverImage": ["images/clothes/41.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1098,7 +1098,7 @@
   }, {
     "Barcode": "P400057790104",
     "ProductName": "SWEET花邊純色V領針織背心",
-    "CoverImage": ["/product/P4000577901/P40005779-11.jpg", ""],
+    "CoverImage": ["images/clothes/42.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1131,7 +1131,7 @@
   }, {
     "Barcode": "P400057790804",
     "ProductName": "SWEET花邊純色V領針織背心",
-    "CoverImage": ["/product/P4000577908/P40005779-31.jpg", ""],
+    "CoverImage": ["images/clothes/43.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1164,7 +1164,7 @@
   }, {
     "Barcode": "P400057791204",
     "ProductName": "SWEET花邊純色V領針織背心",
-    "CoverImage": ["/product/P4000577912/5-1.jpg", ""],
+    "CoverImage": ["images/clothes/44.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1197,7 +1197,7 @@
   }, {
     "Barcode": "P400057791504",
     "ProductName": "SWEET花邊純色V領針織背心",
-    "CoverImage": ["/product/P4000577915/P40005779-21.jpg", ""],
+    "CoverImage": ["images/clothes/45.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1230,7 +1230,7 @@
   }, {
     "Barcode": "P400057792304",
     "ProductName": "SWEET花邊純色V領針織背心",
-    "CoverImage": ["/product/P4000577923/1-1.jpg", ""],
+    "CoverImage": ["images/clothes/46.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 490,
@@ -1263,7 +1263,7 @@
   }, {
     "Barcode": "P400055360204",
     "ProductName": "韓妞寬肩帶配色針織背心",
-    "CoverImage": ["/product/P4000553602/P40005536-26.jpg", ""],
+    "CoverImage": ["images/clothes/47.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1282,7 +1282,7 @@
   }, {
     "Barcode": "P400055360404",
     "ProductName": "韓妞寬肩帶配色針織背心",
-    "CoverImage": ["/product/P4000553604/P40005536-32.jpg", ""],
+    "CoverImage": ["images/clothes/48.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1315,7 +1315,7 @@
   }, {
     "Barcode": "P400055362404",
     "ProductName": "韓妞寬肩帶配色針織背心",
-    "CoverImage": ["/product/P4000553624/P40005536-12.jpg", ""],
+    "CoverImage": ["images/clothes/49.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1348,7 +1348,7 @@
   }, {
     "Barcode": "P400057951004",
     "ProductName": "格紋寬肩帶後綁帶無袖上衣",
-    "CoverImage": ["/product/P4000579510/P40005795-32.jpg", ""],
+    "CoverImage": ["images/clothes/50.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1381,7 +1381,7 @@
   }, {
     "Barcode": "P400057951204",
     "ProductName": "格紋寬肩帶後綁帶無袖上衣",
-    "CoverImage": ["/product/P4000579512/P40005795-15.jpg", ""],
+    "CoverImage": ["images/clothes/51.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1414,7 +1414,7 @@
   }, {
     "Barcode": "P400057952304",
     "ProductName": "格紋寬肩帶後綁帶無袖上衣",
-    "CoverImage": ["/product/P4000579523/P40005795-24.jpg", ""],
+    "CoverImage": ["images/clothes/52.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1447,7 +1447,7 @@
   }, {
     "Barcode": "P400058410204",
     "ProductName": "粗針織細肩帶短版小可愛罩衫",
-    "CoverImage": ["/product/P4000584102/P40005841-22.jpg", ""],
+    "CoverImage": ["images/clothes/53.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -1480,7 +1480,7 @@
   }, {
     "Barcode": "P400058410904",
     "ProductName": "粗針織細肩帶短版小可愛罩衫",
-    "CoverImage": ["/product/P4000584109/P40005841-12.jpg", ""],
+    "CoverImage": ["images/clothes/54.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -1513,7 +1513,7 @@
   }, {
     "Barcode": "P400058010103",
     "ProductName": "SWEET細肩帶花瓣領背心",
-    "CoverImage": ["/product/P4000580101/P40005801-21D.jpg", ""],
+    "CoverImage": ["images/clothes/55.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 390,
@@ -1532,7 +1532,7 @@
   }, {
     "Barcode": "P400058011504",
     "ProductName": "SWEET細肩帶花瓣領背心",
-    "CoverImage": ["/product/P4000580115/3-1.jpg", ""],
+    "CoverImage": ["images/clothes/56.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1565,7 +1565,7 @@
   }, {
     "Barcode": "P400058012204",
     "ProductName": "SWEET細肩帶花瓣領背心",
-    "CoverImage": ["/product/P4000580122/P40005801-13.jpg", ""],
+    "CoverImage": ["images/clothes/57.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1598,7 +1598,7 @@
   }, {
     "Barcode": "P400058012504",
     "ProductName": "SWEET細肩帶花瓣領背心",
-    "CoverImage": ["/product/P4000580125/1-1.jpg", ""],
+    "CoverImage": ["images/clothes/58.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1631,7 +1631,7 @@
   }, {
     "Barcode": "P400057070904",
     "ProductName": "寬肩帶桃心領前後兩穿無袖上衣",
-    "CoverImage": ["/product/P4000570709/P40005707-21.jpg", ""],
+    "CoverImage": ["images/clothes/59.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
@@ -1657,7 +1657,7 @@
   }, {
     "Barcode": "P400057072304",
     "ProductName": "寬肩帶桃心領前後兩穿無袖上衣",
-    "CoverImage": ["/product/P4000570723/P40005707-11.jpg", ""],
+    "CoverImage": ["images/clothes/60.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 390,
