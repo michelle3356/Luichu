@@ -40,7 +40,7 @@ function loadJSON(file) {
       // <div>hahaha</div>
       div.setAttribute('class', 'col-md-3 col-sm-6');
       div.innerHTML = '<div class="product">' +
-        '<img width="100%" src="https://cdn.pazzo.com.tw' + res.Items[i].CoverImage[0] + '" alt="">' +
+        '<img width="100%" src="' + res.Items[i].CoverImage[0] + '" alt="">' +
         '<div class="name">' + res.Items[i].ProductName + '</div>' +
         '<div class="price">' + res.Items[i].SellingPrice + '</div>' +
       '</div>';
