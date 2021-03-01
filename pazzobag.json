@@ -4,7 +4,7 @@
   "Items": [{
     "Barcode": "P005002000100",
     "ProductName": "RICO莉可兔 可愛毛茸茸拉鍊腰包",
-    "CoverImage": ["/images/bag/1.jpg", ""],
+    "CoverImage": ["images/bag/1.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 790,
