@@ -3,8 +3,8 @@
   "Filters": [],
   "Items": [{
     "Barcode": "P005002000100",
-    "ProductName": "RICO莉可兔 可愛毛茸茸拉鍊腰包(附背帶)",
-    "CoverImage": ["/images/bag/5d00b3b7-d627-4b8c-9472-5c566c53bcc1_w235_h299.jpg", ""],
+    "ProductName": "RICO莉可兔 可愛毛茸茸拉鍊腰包",
+    "CoverImage": ["/images/bag/1.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 790,
@@ -23,7 +23,7 @@
   }, {
     "Barcode": "P403013870200",
     "ProductName": "冬日氛圍毛毛包",
-    "CoverImage": ["/product/P4030138702/P40301387-11.jpg", ""],
+    "CoverImage": ["/images/bag/2.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 990,
@@ -42,7 +42,7 @@
   }, {
     "Barcode": "P005002010200",
     "ProductName": "BUTTER 奶油印花挺版托特包",
-    "CoverImage": ["/product/P0050020102/P00500201-11D.jpg", ""],
+    "CoverImage": ["/images/bag/3.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": true,
     "SellingPrice": 680,
@@ -61,7 +61,7 @@
   }, {
     "Barcode": "P403013430200",
     "ProductName": "毛毛手提水桶包",
-    "CoverImage": ["/product/P4030134302/P40301343-21.jpg", ""],
+    "CoverImage": ["/images/bag/4.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 890,
@@ -80,7 +80,7 @@
   }, {
     "Barcode": "P403013430300",
     "ProductName": "毛毛手提水桶包",
-    "CoverImage": ["/product/P4030134303/P40301343-11.jpg", ""],
+    "CoverImage": ["/images/bag/5.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 890,
@@ -99,7 +99,7 @@
   }, {
     "Barcode": "P005001920100",
     "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
-    "CoverImage": ["/product/P0050019201/P00500192-21.jpg", ""],
+    "CoverImage": ["/images/bag/6.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
@@ -118,7 +118,7 @@
   }, {
     "Barcode": "P005001922500",
     "ProductName": "PANTONE UNIVERSE 隨興感帆布圓筒大提袋",
-    "CoverImage": ["/product/P0050019225/P00500192-31.jpg", ""],
+    "CoverImage": ["/images/bag/7.jpg", ""],
     "HasTwoCover": false,
     "IsLargeCoverImage": false,
     "SellingPrice": 590,
